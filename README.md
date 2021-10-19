@@ -1,2 +1,1 @@
-# biruk-getachew.github.io
-brook
+alazar is stupid
