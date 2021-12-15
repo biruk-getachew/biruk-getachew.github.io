@@ -11,6 +11,7 @@ body {
     align-content: center;
     margin: 0 auto;
     transform: translateX(-10px);
+    margin-bottom: 20px;
 }
 
 .main .cont p {
@@ -35,7 +36,6 @@ body {
 .conte img {
     margin-left: -10px;
     width: 101%;
-    margin-top: 20px;
     border-top-style: solid;
     border-top-width: 30px;
     border-top-color: rgba(27, 26, 26, 0.384);
