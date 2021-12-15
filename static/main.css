@@ -1,9 +1,8 @@
 body {
-    background-image: url(https://www.dropbox.com/s/h7ja7peha9ibwtb/final%20%282%29.png?dl=0);
+    background-color: rgb(39, 37, 38);
 }
 
 .main {
-    background-image: url(https://www.dropbox.com/s/h7ja7peha9ibwtb/final%20%282%29.png?dl=0);
     background-color: rgb(230, 176, 164);
     transform: translateX(50%);
     width: 200px;
@@ -30,3 +29,15 @@ body {
     margin: -65px 0 0 -70px;
 }
 
+.god {
+    overflow: hidden;
+}
+.conte img {
+    margin-left: -10px;
+    width: 101%;
+    margin-top: 20px;
+    border-top-style: solid;
+    border-top-width: 30px;
+    border-top-color: rgba(27, 26, 26, 0.384);
+    
+}
