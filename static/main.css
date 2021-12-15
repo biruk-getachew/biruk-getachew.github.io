@@ -10,12 +10,21 @@ body {
     border-radius: 100%;
     align-content: center;
     margin: 0 auto;
+    transform: translateX(-10px);
 }
 
-.main p {
+.main .cont p {
     font-family: fantasy;
     color: rgb(26, 19, 17);
     text-align: center;
+    font-size: 40px;
+    letter-spacing: 10px;
+}
+
+.cont {
+    position: absolute;
     top: 50%;
+    left: 50%;
+    margin: -65px 0 0 -70px;
 }
 
