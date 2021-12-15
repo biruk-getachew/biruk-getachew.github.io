@@ -1,3 +1,4 @@
-p {
-    color: blue;
+.main {
+    min-height: 5cm;
+    min-width: 5cm;
 }
