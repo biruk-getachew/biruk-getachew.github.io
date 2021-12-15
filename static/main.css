@@ -3,9 +3,19 @@ body {
 }
 
 .main {
-    background-color: #fa9;
+    background-color: rgb(230, 176, 164);
     transform: translateX(50%);
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 100%;
+    align-content: center;
+    margin: 0 auto;
 }
+
+.main p {
+    font-family: fantasy;
+    color: rgb(26, 19, 17);
+    text-align: center;
+    top: 50%;
+}
+
