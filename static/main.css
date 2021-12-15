@@ -3,7 +3,7 @@ body {
 }
 
 .main {
-    background-color: blue;
+    background-color: #fa9;
     transform: translateX(50%);
     width: 100px;
     height: 100px;
